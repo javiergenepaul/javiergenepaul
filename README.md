@@ -25,7 +25,7 @@
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npmjs" width="40" height="40"/></a>
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="npmjs" width="40" height="40"/></a>
   <a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/></a><a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="gsap" width="40" height="40"/></a>
-</p>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" width="70" height="40"/></a><a href="https://mobx.js.org" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mobx-icon-1024x1024-c9qpjcmj.png" alt="mobx" width="40" height="40"/></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiergenepaul&show_icons=true&locale=en&layout=compact" alt="javiergenepaul" /></p>
 

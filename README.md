@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on [My Portfolio](https://github.com/javiergenepaul/paul-javier)
 
-- 🌱 I’m currently learning **Boot, GSAP, Framer Motion, ThreeJS, Azure Pipelines and CI/CD**
+- 🌱 I’m currently learning **GSAP, Framer Motion, ThreeJS, Azure Pipelines and CI/CD**
 
 - 💬 Ask me about **React, Spring Boot, Tailwind, ShadCN**
 

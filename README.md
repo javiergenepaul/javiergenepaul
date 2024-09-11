@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Spring Boot, Tailwind, ShadCN**
 
-- 📫 How to reach me **javiergenepaul@gmail.com**
+- 📫 Reach me in email **javiergenepaul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

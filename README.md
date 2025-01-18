@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on [Rochenette Legaspina Portfolio 2025](https://github.com/javiergenepaul/rochenette-legaspina-portfolio-2025)
 
-- 🌱 I’m currently learning **Vue JS, Vue Router & Python Djanggo**
+- 🌱 I’m currently learning **Vue JS, Vue Router**
 
 - 💬 Ask me about **React, Spring Boot, Tailwind, ShadCN**
 

@@ -1,34 +1,85 @@
-<h1 align="center">Hi 👋, I'm Gene Paul Mar Javier</h1>
-<h3 align="center">I'm a full-stack developer and software engineer, specializing in crafting innovative solutions from concept to deployment. With expertise in frontend, backend, and database management, I excel at creating seamless user experiences and scalable applications. Let's turn ideas into reality, one line of code at a time.</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javiergenepaul&label=Profile%20views&color=0e75b6&style=flat" alt="javiergenepaul" /> </p>
+```
+░██████╗░███████╗███╗░░██╗███████╗  ██████╗░░█████╗░██╗░░░██╗██╗░░░░░
+██╔════╝░██╔════╝████╗░██║██╔════╝  ██╔══██╗██╔══██╗██║░░░██║██║░░░░░
+██║░░██╗░█████╗░░██╔██╗██║█████╗░░  ██████╔╝███████║██║░░░██║██║░░░░░
+██║░░╚██╗██╔══╝░░██║╚████║██╔══╝░░  ██╔═══╝░██╔══██║██║░░░██║██║░░░░░
+╚██████╔╝███████╗██║░╚███║███████╗  ██║░░░░░██║░░██║╚██████╔╝███████╗
+░╚═════╝░╚══════╝╚═╝░░╚══╝╚══════╝  ╚═╝░░░░░╚═╝░░╚═╝░╚═════╝░╚══════╝
+```
 
-- 🔭 I'm currently working on [Exo Portal](https://github.com/exo-portal)
+# Gene Paul Mar Javier
 
-- 🌱 I’m currently learning **Vue JS, Vue Router**
+**Full-Stack Developer · Software Engineer · Builder of Things**
 
-- 💬 Ask me about **React, Spring Boot, Tailwind, ShadCN**
+*Crafting seamless experiences from concept to deployment — one commit at a time.*
 
-- 📫 Reach me in email **javiergenepaul@gmail.com**
+[![Profile Views](https://komarev.com/ghpvc/?username=javiergenepaul&label=Profile+Views&color=6366f1&style=flat-square)](https://github.com/javiergenepaul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/gene-paul-mar-javier-500b93245/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/pauljavier20/)
+[![Email](https://img.shields.io/badge/Email-javiergenepaul%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:javiergenepaul@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gene-paul-mar-javier-500b93245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gene-paul-mar-javier-500b93245/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/pauljavier20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gennette29/" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Language, Tech Stack & Tools:</h3>
-<p align="left"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a><a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" height="40"/></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN" width="40" height="40"/></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite Js" width="40" height="40"/></a>
-<a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFGdfm4TV8oBpvmwHUAZlLGFUocZu2BmQkI1Y4MtBSrw&s" alt="pnpmjs" width="40" height="40"/></a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npmjs" width="40" height="40"/></a>
-<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="npmjs" width="40" height="40"/></a>
-  <a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/></a><a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="gsap" width="40" height="40"/></a>
-<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" width="70" height="40"/></a><a href="https://mobx.js.org" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mobx-icon-1024x1024-c9qpjcmj.png" alt="mobx" width="40" height="40"/></a><a href="https://zod.dev/" target="_blank" rel="noreferrer"><img src="https://zod.dev/logo.svg" alt="zod" width="40" height="40"/></a><a href="https://momentjs.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/moment-js-icon-512x512-lezm7xw5.png" alt="zod" width="40" height="40"/></a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiergenepaul&show_icons=true&locale=en&layout=compact&exclude_repo=yoo" alt="javiergenepaul" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiergenepaul&show_icons=true&locale=en" alt="javiergenepaul" /></p>
+I'm a **full-stack developer** with a passion for building products that are fast, scalable, and a joy to use. I work across the entire stack — from polished UIs to robust backend services and cloud infrastructure — and I take pride in writing code that's clean, maintainable, and production-ready.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javiergenepaul&" alt="javiergenepaul" /></p>
+- 🔭 Currently building **[Exo Portal](https://github.com/exo-portal)** — an ambitious open-source project
+- 🌱 Deepening my expertise in **Vue.js & Vue Router**
+- 💬 Happy to chat about **React, Spring Boot, Tailwind CSS, ShadCN/UI**
+- 🌏 Based in **Cebu, Philippines**
+- 📬 Reach me at **javiergenepaul@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**UI & Animation** &nbsp;
+![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge) ![MobX](https://img.shields.io/badge/MobX-FF7A31?style=for-the-badge&logo=mobx&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
+**Backend** &nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Database** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Cloud & DevOps** &nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Tools & Testing** &nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javiergenepaul&theme=tokyonight" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javiergenepaul&theme=tokyonight" alt="Repos per Language" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javiergenepaul&theme=tokyonight" alt="Most Commit Language" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=javiergenepaul&theme=tokyonight" alt="Stats" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=javiergenepaul&theme=tokyonight&utcOffset=8" alt="Productive Time (UTC+8)" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Any application that can be written in JavaScript, will eventually be written in JavaScript."* — Atwood's Law
+
+**Thanks for stopping by! Feel free to explore my repos or reach out — always happy to collaborate. 🚀**
+
+</div>

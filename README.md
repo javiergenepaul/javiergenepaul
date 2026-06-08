@@ -16,77 +16,295 @@
 ░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝╚══════╝╚═╝░░╚═╝
 ```
 
-# Gene Paul Mar Javier
+<a href="https://gene-paul-mar-javier.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Developer;Software+Engineer;Front+End+Developer;Backend+Developer;React+Developer;Vue+Developer;Spring+Boot+Developer;Code+Enthusiast" alt="Full Stack Developer · Software Engineer · Front End Developer · Backend Developer · React Developer · Vue Developer · Spring Boot Developer · Code Enthusiast" />
+</a>
 
-**Full-Stack Developer · Software Engineer · Builder of Things**
-
-*Crafting seamless experiences from concept to deployment — one commit at a time.*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=javiergenepaul&label=Profile+Views&color=6366f1&style=flat-square)](https://github.com/javiergenepaul)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/gene-paul-mar-javier-500b93245/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/pauljavier20/)
-[![Email](https://img.shields.io/badge/Email-javiergenepaul%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:javiergenepaul@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=javiergenepaul&label=Profile+Views&color=10b981&style=for-the-badge)](https://github.com/javiergenepaul)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&labelColor=555)](https://gene-paul-mar-javier.dev)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 📄 `src/pages/AboutMe.tsx` 🔥
 
-I'm a **full-stack developer** with a passion for building products that are fast, scalable, and a joy to use. I work across the entire stack — from polished UIs to robust backend services and cloud infrastructure — and I take pride in writing code that's clean, maintainable, and production-ready.
-
-- 🔭 Currently building **[Exo Portal](https://github.com/exo-portal)** — an ambitious open-source project
-- 🌱 Deepening my expertise in **Vue.js & Vue Router**
-- 💬 Happy to chat about **React, Spring Boot, Tailwind CSS, ShadCN/UI**
-- 🌏 Based in **Cebu, Philippines**
-- 📬 Reach me at **javiergenepaul@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend** &nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**UI & Animation** &nbsp;
-![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge) ![MobX](https://img.shields.io/badge/MobX-FF7A31?style=for-the-badge&logo=mobx&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-
-**Backend** &nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-**Database** &nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Cloud & DevOps** &nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Tools & Testing** &nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+```ts
+const gpm: Developer = {
+  name:     "Gene Paul Mar Javier",
+  role:     "Full-Stack Developer",
+  location: "Cebu, Philippines 🇵🇭",
+  stack:    ["Spring Boot", "Next.js", "TypeScript", "PostgreSQL"],
+  focus:    ["Microservices", "SaaS Products", "Clean Architecture"],
+  building: "GPR & Work OS — multi-tenant IDP HR & DTR SaaS with AI interviews",
+  hobbies:  ["🎮 Ragnarok MMORPGs", "🛵 Yamaha NMAX rides", "🎵 Building GPM Tunes"],
+  goals:    "Ship fast. Scale smart. Leave the codebase better than I found it.",
+};
+```
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ `src/pages/TechStack.tsx` ⚡
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" width="48" height="48" alt="Zustand" />
+      <br>Zustand
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="48" height="48" alt="Zod" />
+      <br>Zod
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="pnpm" />
+      <br>pnpm
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
+      <br>Bun
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="NGINX" />
+      <br>NGINX
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
+      <br>Blender
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal" />
+      <br>Unreal
+    </td>
+    <td align="center" width="96">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="48" height="48" alt="Gemini AI" />
+      <br>Gemini AI
+    </td>
+    <td align="center" width="96">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" width="48" height="48" alt="Ollama" />
+      <br>Ollama
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ `src/pages/OnMyRadar.tsx` ⚡
+
+<table align="center">
+  <tr>
+    <td>🚀 SaaS Maker &amp; Side Projects</td>
+    <td>⚡ Agentic AI</td>
+    <td>🎯 Pixel Perfect Implementation</td>
+  </tr>
+  <tr>
+    <td>🔍 SEO &amp; Core Web Vitals</td>
+    <td>⚙️ Performance Optimization</td>
+    <td>🐳 Containerisation &amp; Docker</td>
+  </tr>
+  <tr>
+    <td>🌍 Serverless &amp; Edge Computing</td>
+    <td>🔗 Distributed Systems</td>
+    <td>🔭 LLM Observability</td>
+  </tr>
+</table>
+
+---
+
+### ⚡ `src/pages/Stats.tsx` ⚡
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javiergenepaul&theme=tokyonight" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javiergenepaul&theme=tokyonight" alt="Profile Details" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javiergenepaul&theme=tokyonight" alt="Repos per Language" height="165"/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javiergenepaul&theme=tokyonight" height="165"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javiergenepaul&theme=tokyonight" alt="Most Commit Language" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javiergenepaul&theme=tokyonight" height="165"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=javiergenepaul&theme=tokyonight" alt="Stats" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=javiergenepaul&theme=tokyonight" height="165"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=javiergenepaul&theme=tokyonight&utcOffset=8" alt="Productive Time (UTC+8)" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=javiergenepaul&theme=tokyonight&utcOffset=8" height="165"/>
 
 </div>
 
 ---
 
+### ⚡ `src/pages/Contributions.tsx` ⚡
+
 <div align="center">
 
-*"Any application that can be written in JavaScript, will eventually be written in JavaScript."* — Atwood's Law
+![Pac-Man animation](https://raw.githubusercontent.com/javiergenepaul/javiergenepaul/output/pacman-contribution-graph-dark.svg)
 
-**Thanks for stopping by! Feel free to explore my repos or reach out — always happy to collaborate. 🚀**
+</div>
+
+---
+
+### ⚡ `src/pages/WhoAmI.tsx` ⚡
+
+```bash
+$ cat about.sh
+
+NAME="Gene Paul Mar Javier"
+LOCATION="Cebu, Philippines 🇵🇭"
+PRONOUNS="he/him"
+
+INTERESTS=(
+  "🎮 Ragnarok Online & MMORPGs"
+  "🛵 Riding my Yamaha NMAX TechMax V3"
+  "🎵 Music & building GPM Tunes"
+  "🎨 Creative UI prototyping"
+  "🤖 Local AI experiments"
+)
+
+echo "Building things that matter, one commit at a time. ✨"
+# It's not about the destination, it's about the diff.
+```
+
+---
+
+### ⚡ `src/pages/Quote.tsx` ⚡
+
+<div align="center">
+
+> *"Modern problems require modern solutions."*
+>
+> — **GPM**
+
+</div>
+
+---
+
+### ⚡ `src/pages/ContactMe.tsx` ⚡
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://gene-paul-mar-javier.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gene-paul-mar-javier-500b93245/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javiergenepaul)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiergenepaul@gmail.com)
+
+<br/>
+
+**Thanks for stopping by — feel free to explore my repos or reach out. Always happy to collaborate. 🚀**
 
 </div>

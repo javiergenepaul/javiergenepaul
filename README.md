@@ -233,17 +233,17 @@ const gpm: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javiergenepaul&theme=tokyonight" alt="Profile Details" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javiergenepaul&theme=vue" alt="Profile Details" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javiergenepaul&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javiergenepaul&theme=vue" height="165"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javiergenepaul&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javiergenepaul&theme=vue" height="165"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=javiergenepaul&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=javiergenepaul&theme=vue" height="165"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=javiergenepaul&theme=tokyonight&utcOffset=8" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=javiergenepaul&theme=vue&utcOffset=8" height="165"/>
 
 </div>
 
